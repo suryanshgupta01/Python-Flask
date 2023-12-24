@@ -1,4 +1,5 @@
 flask
+Gunicorn
 flask_sqlalchemy
 datetime
 pyttsx3

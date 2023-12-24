@@ -1,6 +1,6 @@
 flask
 Gunicorn
 flask_sqlalchemy
-dotenv
+python-dotenv
 pyttsx3
 PyPDF2
